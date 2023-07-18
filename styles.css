@@ -1,0 +1,38 @@
+body{
+	font-family: "roboto";
+    background-color: black;
+    padding: 50px 20%;
+}
+.justificado{
+	justify-content: space-between;
+}
+.portable{
+    display: flex;
+}
+.imagen {
+	object-fit:fill;
+	width: 100%;
+}
+.cajaGrande{
+    display: block;
+    margin: auto;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.padH{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.centrarV{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.padV{
+    padding-top: 30px;
+}
+.mIzq{
+    margin-left: 10px;
+}
+.mIzq2{
+    margin-left: 5px;
+}
